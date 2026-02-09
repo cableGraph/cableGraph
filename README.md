@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Deno</h1>
+<h3 align="center">Bytecode-Level Blockchain Cores dev</h3>
 
-<!--
-**cableGraph/cableGraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://github.com/cableGraph">
+</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Ethereum| Solidity| Rust| JS| DeFi |EVM**
+- 📫 How to reach me **denniskiptoo035@gmail.com**
+- EVM playgrounds are my league, Competition happens on-chain.
+
+---
+
+### Connect with me:
+
+<p align="left">
+<a href="https://x.com/TavarasCamp">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://www.linkedin.com/in/dennis-kiptoo-388a71299/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
