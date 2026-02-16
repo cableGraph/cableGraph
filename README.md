@@ -8,7 +8,7 @@
 
 ---
 
-- 💬 Ask me about **Ethereum| Solidity| Rust| JS| DeFi |EVM**
+- 💬 Ask me about **Ethereum| Solidity| Typescriprt| React.js| DeFi |EVM**
 - 📫 How to reach me **denniskiptoo035@gmail.com**
 - EVM playgrounds are my league, Competition happens on-chain.
 
