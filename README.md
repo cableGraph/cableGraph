@@ -1,7 +1,7 @@
 # 💫 About Me
 
 - 🔭 Currently exploring: **Blockchain Security**, **DeFi**, **EVM internals**, and **smart contract optimization** in Solidity, Yul & Huff.
-- 🔑 Open to collaborations in **Blockchain Security**, **Smart Contract Development**, **EVM tooling**, and **Full‑stack dApps**.
+- 🤝  Open to collaborations in **Blockchain Security**, **Smart Contract Development**, **EVM tooling**, and **Full‑stack dApps**.
   
 
 ---
@@ -81,10 +81,10 @@
 
 
 - **[Royal Japan](https://github.com/cableGraph/royaljapan-demo)**
-
-- Custom Gas-Optimized ERC-20 Token
--   
+  
 . Two-Click MetaMask Checkout Flow
+
+. Custom Gas-Optimized ERC-20 Token
 
 . Zero-Friction Cross-Border Payments
 
