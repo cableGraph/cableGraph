@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- 🔭 Currently exploring: **Ethereum Security**, **DeFi**, **EVM internals**, and **smart contract optimization** in Solidity, Yul & Huff.
+- 🔭   I audit @Ethereum based smart contracts for fun using  Solidity, Yul & Huff.
 - 🤝  Open to collaborations in **Ethereum Security**, **Smart Contract Development**, **EVM tooling**, and **Full‑stack dApps**.
   
 
