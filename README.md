@@ -32,7 +32,10 @@
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
----
+### 🔍 Security & Analysis
+![Slither](https://img.shields.io/badge/Slither-3C3C3D?style=for-the-badge&logo=python&logoColor=white)
+![Echidna](https://img.shields.io/badge/Echidna-7B2D8E?style=for-the-badge&logo=ethereum&logoColor=white)
+![Mythril](https://img.shields.io/badge/Mythril-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white)
 ## 📌 Featured Projects
 
 ### DeFi & Real-World Assets
