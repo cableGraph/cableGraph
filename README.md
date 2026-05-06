@@ -21,8 +21,6 @@
 
 ### ☁️ Cloud & DevOps
 ![Foundry](https://img.shields.io/badge/Foundry-4B4B4B?style=for-the-badge&logo=ethereum&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Alchemy](https://img.shields.io/badge/Alchemy-0A0A0A?style=for-the-badge&logo=alchemy&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
