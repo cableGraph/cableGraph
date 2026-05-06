@@ -14,6 +14,11 @@
 ![Yul](https://img.shields.io/badge/Yul-1E1E1E?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Huff](https://img.shields.io/badge/Huff-FF6B6B?style=for-the-badge&logo=ethereum&logoColor=white)
 
+### 🔍 Security & Analysis
+![Slither](https://img.shields.io/badge/Slither-3C3C3D?style=for-the-badge&logo=python&logoColor=white)
+![Echidna](https://img.shields.io/badge/Echidna-7B2D8E?style=for-the-badge&logo=ethereum&logoColor=white)
+![Mythril](https://img.shields.io/badge/Mythril-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white)
+
 ### ☁️ Cloud & DevOps
 ![Foundry](https://img.shields.io/badge/Foundry-4B4B4B?style=for-the-badge&logo=ethereum&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -32,10 +37,7 @@
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🔍 Security & Analysis
-![Slither](https://img.shields.io/badge/Slither-3C3C3D?style=for-the-badge&logo=python&logoColor=white)
-![Echidna](https://img.shields.io/badge/Echidna-7B2D8E?style=for-the-badge&logo=ethereum&logoColor=white)
-![Mythril](https://img.shields.io/badge/Mythril-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white)
+
 ## 📌 Featured Projects
 
 ### DeFi & Real-World Assets
