@@ -60,11 +60,11 @@
 
 - **[RogueForge](https://github.com/cableGraph/testproject-RPG)**
   
-.  A Three.js/Node.js based action RPG/browser roguelike game with Metamask login and a sample map where the player can move around. 
+.   A Three.js/Node.js based action RPG/browser roguelike game with Metamask login and a sample map where the player can move around. 
  
-.  The game features retro-style graphics with a 3D-style fixed-view scene, sprite player and objects, and grid-based movement with interpolation. 
+.   The game features retro-style graphics with a 3D-style fixed-view scene, sprite player and objects, and grid-based movement with interpolation. 
  
-.  Players can move around static and randomly-generated maps, click on monsters to attack and use skills, level up, upgrade skills via a complex tree system, craft and upgrade items, participate in special maps and        challenges, and engage in PvP.
+.   Players can move around static and randomly-generated maps, click on monsters to attack and use skills, level up, upgrade skills via a complex tree system, craft and upgrade items, participate in special maps and        challenges, and engage in PvP.
 
 -  **[VibeVault](https://github.com/cableGraph/VibeVault)**
   
