@@ -38,7 +38,7 @@
 
 ### DeFi & Real-World Assets
 
-**[Topizzy Security Audit](https://github.com/cableGraph/topizzy-security-audit)**
+- **[Topizzy Security Audit](https://github.com/cableGraph/topizzy-security-audit)**
 
 . Comprehensive security audit for Topizzy, an onchain airtime purchase protocol built on Base.
 
@@ -66,7 +66,7 @@
  
 .  Players can move around static and randomly-generated maps, click on monsters to attack and use skills, level up, upgrade skills via a complex tree system, craft and upgrade items, participate in special maps and        challenges, and engage in PvP.
 
-- **[VibeVault](https://github.com/cableGraph/VibeVault)**
+-  **[VibeVault](https://github.com/cableGraph/VibeVault)**
   
 . Fully On-Chain Metadata – SVGs encoded directly into the contract using Base64.
 
@@ -81,7 +81,7 @@
 . zkSync Compatible – Easily deployable to Layer-2 zkSync Era networks for scalability and low fees.
 
 
-  **[DeFi](https://github.com/cableGraph/DeFi)**
+-  **[DeFi](https://github.com/cableGraph/DeFi)**
 
 . Multi-Collateral Stability Engine: ERC4626 vaults with real-time health factor monitoring
   
@@ -90,7 +90,7 @@
 . Oracles: Chainlink primary + Pyth/TWAP fallback with circuit breakers
 
 
-- **[Lottery Protocol](https://github.com/cableGraph/gas-optimized-blockchain-lottery)**
+-  **[Lottery Protocol](https://github.com/cableGraph/gas-optimized-blockchain-lottery)**
   
 .  Automated draws with configurable intervals
   
