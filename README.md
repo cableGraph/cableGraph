@@ -39,9 +39,13 @@
 ### DeFi & Real-World Assets
 
 **[Topizzy Security Audit](https://github.com/cableGraph/topizzy-security-audit)**
+
 . Comprehensive security audit for Topizzy, an onchain airtime purchase protocol built on Base.
+
 . Uncovered 2 Critical, 3 High, 4 Medium, and 3 Low severity vulnerabilities, including double-refund drains and treasury key compromise risks.
+
 . Validated using a Foundry test suite with 9 unit tests, 6 fuzz tests (256 runs), and 4 invariant tests executing 50,000 state transitions.
+
 . Full audit report, PoCs, and artifacts publicly available.
 
 **[DeFi](https://github.com/cableGraph/DeFi)**
