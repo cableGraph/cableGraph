@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- 🔭   I build @Ethereum based smart contracts for fun using  Solidity, Yul & Huff.
+- 🔭   I build and audit @Ethereum based smart contracts for fun using  Solidity, Yul & Huff.
 - 🤝  Open to collaborations in **Ethereum Security**, **Smart Contract Development**, **EVM tooling**, and **Full‑stack dApps**.
   
 
@@ -48,7 +48,40 @@
 
 . Full audit report, PoCs, and artifacts publicly available.
 
-**[DeFi](https://github.com/cableGraph/DeFi)**
+- **[Royal Japan](https://github.com/cableGraph/royaljapan-demo)**
+  
+. Two-Click MetaMask Checkout Flow
+
+. Custom Gas-Optimized ERC-20 Token
+
+. Zero-Friction Cross-Border Payments
+
+. Real-Time Payment Confirmation with Web3.js & Ethers.js
+
+- **[RogueForge](https://github.com/cableGraph/testproject-RPG)**
+  
+.  A Three.js/Node.js based action RPG/browser roguelike game with Metamask login and a sample map where the player can move around. 
+ 
+.  The game features retro-style graphics with a 3D-style fixed-view scene, sprite player and objects, and grid-based movement with interpolation. 
+ 
+.  Players can move around static and randomly-generated maps, click on monsters to attack and use skills, level up, upgrade skills via a complex tree system, craft and upgrade items, participate in special maps and        challenges, and engage in PvP.
+
+- **[VibeVault](https://github.com/cableGraph/VibeVault)**
+  
+. Fully On-Chain Metadata – SVGs encoded directly into the contract using Base64.
+
+. Dynamic NFT Logic – Each token’s mood can toggle between “HAPPY” and “SAD.”
+
+. ERC721 Standard – Built on top of OpenZeppelin’s proven ERC721 implementation.
+
+. Custom Errors for Gas Optimization – Replaces require() messages for lower gas costs.
+
+. Test Coverage with Foundry – Includes structured unit tests following the Arrange-Act-Assert pattern.
+
+. zkSync Compatible – Easily deployable to Layer-2 zkSync Era networks for scalability and low fees.
+
+
+  **[DeFi](https://github.com/cableGraph/DeFi)**
 
 . Multi-Collateral Stability Engine: ERC4626 vaults with real-time health factor monitoring
   
@@ -68,53 +101,3 @@
 .   Gas optimization using Foundry benchmarks
   
 .  Verified on Etherscan for public transparency
-
-- **[VibeVault](https://github.com/cableGraph/VibeVault)**
-  
-. Fully On-Chain Metadata – SVGs encoded directly into the contract using Base64.
-
-. Dynamic NFT Logic – Each token’s mood can toggle between “HAPPY” and “SAD.”
-
-. ERC721 Standard – Built on top of OpenZeppelin’s proven ERC721 implementation.
-
-. Custom Errors for Gas Optimization – Replaces require() messages for lower gas costs.
-
-. Test Coverage with Foundry – Includes structured unit tests following the Arrange-Act-Assert pattern.
-
-. zkSync Compatible – Easily deployable to Layer-2 zkSync Era networks for scalability and low fees.
-- **[RogueForge](https://github.com/cableGraph/testproject-RPG)**
-  
-.  A Three.js/Node.js based action RPG/browser roguelike game with Metamask login and a sample map where the player can move around. 
- 
-.  The game features retro-style graphics with a 3D-style fixed-view scene, sprite player and objects, and grid-based movement with interpolation. 
- 
-.  Players can move around static and randomly-generated maps, click on monsters to attack and use skills, level up, upgrade skills via a complex tree system, craft and upgrade items, participate in special maps and        challenges, and engage in PvP.
-
-
-- **[Royal Japan](https://github.com/cableGraph/royaljapan-demo)**
-  
-. Two-Click MetaMask Checkout Flow
-
-. Custom Gas-Optimized ERC-20 Token
-
-. Zero-Friction Cross-Border Payments
-
-. Real-Time Payment Confirmation with Web3.js & Ethers.js
-
-
-### AI 
-
-- **[PropAgent](https://github.com/cableGraph/propAgent-web)**
-  
-. Responds instantly to leads from any channel — website chat, SMS, WhatsApp, or phone call
-
-. Qualifies leads by naturally collecting budget, pre-approval status, timeline, and property interest
-
-. Books showings by checking real calendar availability and creating confirmed appointments
-
-. Follows up on cold leads automatically on a daily schedule
-
-. Notifies the realtor via email and SMS whenever something important happens
-
-- **[Sovereign Node](#)**  
-  *(Add your description here)*
