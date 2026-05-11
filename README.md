@@ -48,6 +48,16 @@
 
 . Full audit report, PoCs, and artifacts publicly available.
 
+- **[DSCEngine Security Audit](https://github.com/cableGraph/dsc-audit)**
+
+. Comprehensive security audit for DSCEngine, a multi-collateral decentralized stablecoin protocol inspired by MakerDAO-style overcollateralized lending.
+
+. Identified 2 Critical, 4 High, 3 Medium, 2 Low, and 1 Informational vulnerability, including protocol-wide health factor inversion, emergency collateral drain architecture flaws, and permanent token mint failure.
+
+. Validated findings through a custom Foundry security test suite with unit PoCs, invariant testing, arithmetic verification, and protocol-specific fuzzing.
+
+. Full audit report, proof-of-concepts, mitigation recommendations, and test artifacts publicly available.
+
 - **[Royal Japan](https://github.com/cableGraph/royaljapan-demo)**
   
 . Two-Click MetaMask Checkout Flow
