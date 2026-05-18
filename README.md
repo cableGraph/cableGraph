@@ -1,6 +1,6 @@
 # 💫 About Me
 
-- 🔭   I baudit Ethereum based smart contracts for fun using  Solidity, Yul & Huff.
+- 🔭   I audit Ethereum based smart contracts for fun using  Solidity, Yul & Huff.
 - 🤝  Open to collaborations in **Ethereum Security**, **Smart Contract Development**, **EVM tooling**, and **Full‑stack dApps**.
   
 
