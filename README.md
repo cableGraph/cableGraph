@@ -1,113 +1,22 @@
-# 💫 About Me
+# 🏕️ Tavaras Camp
 
-- 🔭   I audit Ethereum based smart contracts for fun using  Solidity, Yul & Huff.
-- 🤝  Open to collaborations in **Ethereum Security**, **Smart Contract Development**, **EVM tooling**, and **Full‑stack dApps**.
-  
+**Campfire stories? We prefer invariant violations.**
+
+We help protocols ship without critical breaks. Manual audits + invariant fuzzing + pre‑mainnet battle testing.
 
 ---
 
-## 💻 Tech Stack
 
-### 💻 Programming Languages
+## 🛠️ Toolkit
+
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Yul](https://img.shields.io/badge/Yul-1E1E1E?style=for-the-badge&logo=ethereum&logoColor=white)
-![Huff](https://img.shields.io/badge/Huff-FF6B6B?style=for-the-badge&logo=ethereum&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white)
+![Slither](https://img.shields.io/badge/Slither-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![Echidna](https://img.shields.io/badge/Echidna-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 
-### 🔍 Security & Analysis
-![Slither](https://img.shields.io/badge/Slither-3C3C3D?style=for-the-badge&logo=python&logoColor=white)
-![Echidna](https://img.shields.io/badge/Echidna-7B2D8E?style=for-the-badge&logo=ethereum&logoColor=white)
-![Mythril](https://img.shields.io/badge/Mythril-FF6B35?style=for-the-badge&logo=ethereum&logoColor=white)
+---
 
-### ☁️ Cloud & DevOps
-![Foundry](https://img.shields.io/badge/Foundry-4B4B4B?style=for-the-badge&logo=ethereum&logoColor=white)
-![Alchemy](https://img.shields.io/badge/Alchemy-0A0A0A?style=for-the-badge&logo=alchemy&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+## 📬 Request a review
 
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎨 Design & Collaboration
-![RainbowKit](https://img.shields.io/badge/RainbowKit-0D76BC?style=for-the-badge&logo=ethereum&logoColor=white)
-![OpenSea](https://img.shields.io/badge/OpenSea-2081E2?style=for-the-badge&logo=opensea&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-## 📌 Featured Projects
-
-### DeFi & Real-World Assets
-
-- **[Topizzy Security Audit](https://github.com/cableGraph/topizzy-security-audit)**
-
-. Comprehensive security audit for Topizzy, an onchain airtime purchase protocol built on Base.
-
-. Uncovered 2 Critical, 3 High, 4 Medium, and 3 Low severity vulnerabilities, including double-refund drains and treasury key compromise risks.
-
-. Validated using a Foundry test suite with 9 unit tests, 6 fuzz tests (256 runs), and 4 invariant tests executing 50,000 state transitions.
-
-. Full audit report, PoCs, and artifacts publicly available.
-
-- **[DSCEngine Security Audit](https://github.com/cableGraph/dsc-audit)**
-
-. Comprehensive security audit for DSCEngine, a multi-collateral decentralized stablecoin protocol inspired by MakerDAO-style overcollateralized lending.
-
-. Identified 2 Critical, 4 High, 3 Medium, 2 Low, and 1 Informational vulnerability, including protocol-wide health factor inversion, emergency collateral drain architecture flaws, and permanent token mint failure.
-
-. Validated findings through a custom Foundry security test suite with unit PoCs, invariant testing, arithmetic verification, and protocol-specific fuzzing.
-
-. Full audit report, proof-of-concepts, mitigation recommendations, and test artifacts publicly available.
-
-- **[Royal Japan](https://github.com/cableGraph/royaljapan-demo)**
-  
-. Two-Click MetaMask Checkout Flow
-
-. Custom Gas-Optimized ERC-20 Token
-
-. Zero-Friction Cross-Border Payments
-
-. Real-Time Payment Confirmation with Web3.js & Ethers.js
-
-- **[RogueForge](https://github.com/cableGraph/testproject-RPG)**
-  
-.   A Three.js/Node.js based action RPG/browser roguelike game with Metamask login and a sample map where the player can move around. 
- 
-.   The game features retro-style graphics with a 3D-style fixed-view scene, sprite player and objects, and grid-based movement with interpolation. 
- 
-.   Players can move around static and randomly-generated maps, click on monsters to attack and use skills, level up, upgrade skills via a complex tree system, craft and upgrade items, participate in special maps and        challenges, and engage in PvP.
-
--  **[VibeVault](https://github.com/cableGraph/VibeVault)**
-  
-. Fully On-Chain Metadata – SVGs encoded directly into the contract using Base64.
-
-. Dynamic NFT Logic – Each token’s mood can toggle between “HAPPY” and “SAD.”
-
-. ERC721 Standard – Built on top of OpenZeppelin’s proven ERC721 implementation.
-
-. Custom Errors for Gas Optimization – Replaces require() messages for lower gas costs.
-
-. Test Coverage with Foundry – Includes structured unit tests following the Arrange-Act-Assert pattern.
-
-. zkSync Compatible – Easily deployable to Layer-2 zkSync Era networks for scalability and low fees.
-
-
--  **[DeFi](https://github.com/cableGraph/DeFi)**
-
-. Multi-Collateral Stability Engine: ERC4626 vaults with real-time health factor monitoring
-  
-. Governance: OpenZeppelin Governor + 1-day TimelockController + 4% quorum
-
-. Oracles: Chainlink primary + Pyth/TWAP fallback with circuit breakers
-
-
--  **[Lottery Protocol](https://github.com/cableGraph/gas-optimized-blockchain-lottery)**
-  
-.  Automated draws with configurable intervals
-  
-.  Chainlink VRF v2.5 randomness integration
-  
-.  Security: access control & reentrancy protection
-  
-.   Gas optimization using Foundry benchmarks
-  
-.  Verified on Etherscan for public transparency
+**Reach out to our camp.**  
+`@InvariantCamp` on X | [GitHub](https://github.com/cableGraph)
